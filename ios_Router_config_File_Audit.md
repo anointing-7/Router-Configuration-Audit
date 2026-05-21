@@ -4,6 +4,9 @@ I created a configuration file and saved it on the Desktop.
 
 I then ran nipper --ios-router --input=/home/kali/Desktop/config.txt --output=/home/kali/Desktop/report.html in order for Nipper to analyze the router's configuration file and save the report in an html file on the Desktop.
 
+<img width="643" height="61" alt="HTML_report Screenshot" src="https://github.com/user-attachments/assets/a2c0761b-bb2f-4485-8ef8-addae5dbe7de" />
+
+
 This is the generated report:
 
 [Config_output.html](https://github.com/user-attachments/files/28122176/Config_output.html)<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
